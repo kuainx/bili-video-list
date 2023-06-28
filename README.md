@@ -11,6 +11,6 @@
 
 ## 参考资料
 
-MD5:<https://blog.csdn.net/m0_37925276/article/details/107784996>
-wbi:<https://socialsisteryi.github.io/bilibili-API-collect/docs/misc/sign/wbi.html#javascript>
-api:<https://socialsisteryi.github.io/bilibili-API-collect/docs/user/space.html#%E6%9F%A5%E8%AF%A2%E7%94%A8%E6%88%B7%E6%8A%95%E7%A8%BF%E8%A7%86%E9%A2%91%E6%98%8E%E7%BB%86>
+- MD5:<https://blog.csdn.net/m0_37925276/article/details/107784996>
+- wbi:<https://socialsisteryi.github.io/bilibili-API-collect/docs/misc/sign/wbi.html#javascript>
+- api:<https://socialsisteryi.github.io/bilibili-API-collect/docs/user/space.html#%E6%9F%A5%E8%AF%A2%E7%94%A8%E6%88%B7%E6%8A%95%E7%A8%BF%E8%A7%86%E9%A2%91%E6%98%8E%E7%BB%86>
